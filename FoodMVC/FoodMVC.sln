@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Food.Web", "Food.Web\Food.Web.csproj", "{C0BCBDFF-0304-41AA-814E-F9B9EAF8C999}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Food.Data", "Food.Data\Food.Data.csproj", "{2C3FAE2A-09BE-4F91-834C-A5234212366A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0BCBDFF-0304-41AA-814E-F9B9EAF8C999}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0BCBDFF-0304-41AA-814E-F9B9EAF8C999}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0BCBDFF-0304-41AA-814E-F9B9EAF8C999}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0BCBDFF-0304-41AA-814E-F9B9EAF8C999}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C3FAE2A-09BE-4F91-834C-A5234212366A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C3FAE2A-09BE-4F91-834C-A5234212366A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C3FAE2A-09BE-4F91-834C-A5234212366A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C3FAE2A-09BE-4F91-834C-A5234212366A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {055812CB-7F07-4257-8F9C-35EE4DDE597A}
+	EndGlobalSection
+EndGlobal
