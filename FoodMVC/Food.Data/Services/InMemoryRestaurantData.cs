@@ -32,8 +32,7 @@ namespace Food.Data.Services
                 existing.Name = restaurant.Name;
                 existing.Cuisine = restaurant.Cuisine;
             }
-
-            
+                        
         }
 
         public Restaurant Get(int id)
@@ -44,6 +43,15 @@ namespace Food.Data.Services
         public IEnumerable<Restaurant> GetAll()
         {
             return restaurants.OrderBy(r=>r.Name);
+        }
+
+        public void Delete(int id)
+        {
+            var restaurant = Get(id);
+            if(restaurant != null)
+            {
+                restaurants.Remove(restaurant);
+            }
         }
     }
 }

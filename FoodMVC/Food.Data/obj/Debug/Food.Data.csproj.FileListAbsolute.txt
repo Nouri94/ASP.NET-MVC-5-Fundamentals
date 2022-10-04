@@ -4,3 +4,9 @@ C:\Users\nissaki\Downloads\dev\FoodMVC\Food.Data\obj\Debug\Food.Data.csproj.Asse
 C:\Users\nissaki\Downloads\dev\FoodMVC\Food.Data\obj\Debug\Food.Data.csproj.CoreCompileInputs.cache
 C:\Users\nissaki\Downloads\dev\FoodMVC\Food.Data\obj\Debug\Food.Data.dll
 C:\Users\nissaki\Downloads\dev\FoodMVC\Food.Data\obj\Debug\Food.Data.pdb
+C:\Users\nissaki\Downloads\dev\FoodMVC\Food.Data\bin\Debug\Food.Data.dll.config
+C:\Users\nissaki\Downloads\dev\FoodMVC\Food.Data\bin\Debug\EntityFramework.dll
+C:\Users\nissaki\Downloads\dev\FoodMVC\Food.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nissaki\Downloads\dev\FoodMVC\Food.Data\bin\Debug\EntityFramework.xml
+C:\Users\nissaki\Downloads\dev\FoodMVC\Food.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nissaki\Downloads\dev\FoodMVC\Food.Data\obj\Debug\Food.Data.csproj.CopyComplete
