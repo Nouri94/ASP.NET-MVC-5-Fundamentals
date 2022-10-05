@@ -70,6 +70,7 @@ namespace Food.Web.Controllers
             if (ModelState.IsValid)
             {
                 db.Update(restaurant);
+                TempData["Message"] = "You have updated the restaurant!";
                 return RedirectToAction("Details", new { id = restaurant.Id });
             }
             return View(restaurant);
